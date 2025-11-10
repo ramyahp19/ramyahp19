@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <span style="color:#6A5ACD;">Ramya H P</span>
+# 👋 Hi, I'm Ramya H P  
 
 🎓 **Computer Science Student | Full Stack Developer | DevOps Enthusiast**  
 
@@ -6,34 +6,22 @@ I’m passionate about building **scalable and automated applications** that bri
 I enjoy working with technologies like **Java, Spring Boot, Python, HTML, CSS, JavaScript, and MySQL**,  
 and exploring **AWS, Docker, Jenkins, Terraform, and Kubernetes** to streamline deployment workflows.  
 
-💡 *“Code. Automate. Deploy. Repeat.”*
+> 💡 **“Code. Automate. Deploy. Repeat.”**  
+---
+## 🛠️ Tech Stack  
+
+**Languages:** Java ☕ | Python 🐍 | JavaScript ⚡  
+**Frameworks:** Spring Boot | Flask | HTML | CSS  
+**DevOps Tools:** AWS ☁ | Docker 🐳 | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Kubernetes ☸  
+**Database & Build:** MySQL 🗄 | Maven 📦 | Linux 🐧  
+---
+## 🌱 What I’m Working On  
+
+- 🤖 Building **AI-powered web apps** like *Cyberbullying Detection System*  
+- ⚙️ Exploring **CI/CD automation** with Jenkins and Docker  
+- ☁️ Learning **Terraform** and AWS Cloud infrastructure 
 
 ---
-
-### 🛠️ Tech Stack  
-
-**Languages:**  
-☕ Java &nbsp;&nbsp;🐍 Python &nbsp;&nbsp;⚡ JavaScript  
-
-**Frameworks:**  
-🌱 Spring Boot &nbsp;&nbsp;🔥 Flask &nbsp;&nbsp;🎨 HTML | CSS  
-
-**DevOps Tools:**  
-☁ AWS &nbsp;&nbsp;🐳 Docker &nbsp;&nbsp;⚙ Jenkins &nbsp;&nbsp;🚀 GitHub Actions &nbsp;&nbsp;🌍 Terraform &nbsp;&nbsp;☸ Kubernetes  
-
-**Database & Build Tools:**  
-🗄 MySQL &nbsp;&nbsp;📦 Maven &nbsp;&nbsp;🐧 Linux  
-
----
-
-### 🌱 What I’m Working On  
-
-🤖 Building **AI-powered web apps** like *Cyberbullying Detection System*  
-⚙️ Exploring **CI/CD automation** with Jenkins and Docker  
-☁️ Learning **Terraform** and AWS Cloud infrastructure  
-
----
-
 <div align="center">
 
 ### 📊 GitHub Stats  
