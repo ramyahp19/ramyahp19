@@ -7,21 +7,29 @@ I enjoy working with technologies like **Java, Spring Boot, Python, HTML, CSS, J
 and exploring **AWS, Docker, Jenkins, Terraform, and Kubernetes** to streamline deployment workflows.  
 
 > 💡 **“Code. Automate. Deploy. Repeat.”**  
+
 ---
+
 ## 🛠️ Tech Stack  
+<div style="font-size: 16px;">
 
 **Languages:** Java ☕ | Python 🐍 | JavaScript ⚡  
 **Frameworks:** Spring Boot | Flask | HTML | CSS  
 **DevOps Tools:** AWS ☁ | Docker 🐳 | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Kubernetes ☸  
 **Database & Build:** MySQL 🗄 | Maven 📦 | Linux 🐧  
+
+</div>
+
 ---
+
 ## 🌱 What I’m Working On  
 
 - 🤖 Building **AI-powered web apps** like *Cyberbullying Detection System*  
 - ⚙️ Exploring **CI/CD automation** with Jenkins and Docker  
-- ☁️ Learning **Terraform** and AWS Cloud infrastructure 
+- ☁️ Learning **Terraform** and AWS Cloud infrastructure  
 
 ---
+
 <div align="center">
 
 ### 📊 GitHub Stats  
