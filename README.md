@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hey there, I’m Ramya H P
 
-<!--
-**ramyahp19/ramyahp19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer & DevOps Enthusiast
+I’m a Computer Science student passionate about creating efficient, scalable, and automated solutions.
+I love working across the stack — from frontend design to backend development and cloud deployment.
 
-Here are some ideas to get you started:
+💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Java ☕ | Python 🐍 | JavaScript ⚡
+Web: HTML | CSS | Spring Boot | REST APIs
+DevOps: AWS ☁ | Docker 🐳 | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Kubernetes ☸
+Build & Tools: Maven 📦 | Linux 🐧 | Git 🔧
+
+🌱 What I’m Currently Doing
+
+Exploring CI/CD automation and container orchestration
+
+Building Spring Boot applications with Dockerized microservices
+
+Learning more about Terraform and AWS Cloud services
+
+✨ “Build smart. Deploy faster. Learn endlessly.” ✨
