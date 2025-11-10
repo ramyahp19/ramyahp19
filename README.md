@@ -1,22 +1,33 @@
-👋 Hey there, I’m Ramya H P
+👋 Hi, I'm Ramya H P
 
-🚀 Aspiring Full Stack Developer & DevOps Enthusiast
-I’m a Computer Science student passionate about creating efficient, scalable, and automated solutions.
-I love working across the stack — from frontend design to backend development and cloud deployment.
+🎓 Computer Science Student | Full Stack Developer | DevOps Enthusiast
 
-💻 Tech Stack
+I’m passionate about building scalable and automated applications that bridge development and operations.
+I enjoy working with technologies like Java, Spring Boot, Python, HTML, CSS, JavaScript, and MySQL,
+and exploring tools like AWS, Docker, Jenkins, Terraform, and Kubernetes to streamline deployment workflows.
+
+💡 I believe in:
+
+“Code. Automate. Deploy. Repeat.”
+
+🛠️ Tech Stack
 
 Languages: Java ☕ | Python 🐍 | JavaScript ⚡
-Web: HTML | CSS | Spring Boot | REST APIs
-DevOps: AWS ☁ | Docker 🐳 | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Kubernetes ☸
-Build & Tools: Maven 📦 | Linux 🐧 | Git 🔧
+Frameworks: Spring Boot | Flask | HTML | CSS
+DevOps Tools: AWS ☁ | Docker 🐳 | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Kubernetes ☸
+Database & Build: MySQL 🗄 | Maven 📦 | Linux 🐧
 
-🌱 What I’m Currently Doing
+🌱 What I’m Working On
 
-Exploring CI/CD automation and container orchestration
+Building AI-powered web apps like Cyberbullying Detection System
 
-Building Spring Boot applications with Dockerized microservices
+Exploring CI/CD automation with Jenkins and Docker
 
-Learning more about Terraform and AWS Cloud services
+Learning Terraform and AWS Cloud infrastructure
 
-✨ “Build smart. Deploy faster. Learn endlessly.” ✨
+📫 Connect With Me
+
+🌐 github.com/ramyahp19
+
+💼 linkedin.com/in/ramya-hp
+ 
