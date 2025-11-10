@@ -1,61 +1,56 @@
-# 👋 Hi, I'm Ramya H P  
+# 👋 Hi, I'm <span style="color:#6A5ACD;">Ramya H P</span>
 
-<div align="center">
+🎓 **Computer Science Student | Full Stack Developer | DevOps Enthusiast**  
 
-🎓 <b>Computer Science Student | Full Stack Developer | DevOps Enthusiast</b>  
+I’m passionate about building **scalable and automated applications** that bridge development and operations.  
+I enjoy working with technologies like **Java, Spring Boot, Python, HTML, CSS, JavaScript, and MySQL**,  
+and exploring **AWS, Docker, Jenkins, Terraform, and Kubernetes** to streamline deployment workflows.  
 
-I’m passionate about building <b>scalable and automated applications</b> that bridge development and operations.  
-I enjoy working with technologies like <b>Java, Spring Boot, Python, HTML, CSS, JavaScript, and MySQL</b>,  
-and exploring <b>AWS, Docker, Jenkins, Terraform, and Kubernetes</b> to streamline deployment workflows.  
-
-</div>
-
-💡 *“Code. Automate. Deploy. Repeat.”*  
+💡 *“Code. Automate. Deploy. Repeat.”*
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 
 **Languages:**  
-☕ Java  🐍 Python  ⚡ JavaScript  
+☕ Java &nbsp;&nbsp;🐍 Python &nbsp;&nbsp;⚡ JavaScript  
 
 **Frameworks:**  
-🌱 Spring Boot  🔥 Flask  🎨 HTML | CSS  
+🌱 Spring Boot &nbsp;&nbsp;🔥 Flask &nbsp;&nbsp;🎨 HTML | CSS  
 
 **DevOps Tools:**  
-☁ AWS  🐳 Docker  ⚙ Jenkins  🚀 GitHub Actions  🌍 Terraform  ☸ Kubernetes  
+☁ AWS &nbsp;&nbsp;🐳 Docker &nbsp;&nbsp;⚙ Jenkins &nbsp;&nbsp;🚀 GitHub Actions &nbsp;&nbsp;🌍 Terraform &nbsp;&nbsp;☸ Kubernetes  
 
 **Database & Build Tools:**  
-🗄 MySQL  📦 Maven  🐧 Linux  
+🗄 MySQL &nbsp;&nbsp;📦 Maven &nbsp;&nbsp;🐧 Linux  
 
 ---
 
-## 🌱 What I’m Working On  
+### 🌱 What I’m Working On  
 
-- 🤖 Building **AI-powered web apps** like *Cyberbullying Detection System*  
-- ⚙️ Exploring **CI/CD automation** with Jenkins and Docker  
-- ☁️ Learning **Terraform** and AWS Cloud infrastructure  
+🤖 Building **AI-powered web apps** like *Cyberbullying Detection System*  
+⚙️ Exploring **CI/CD automation** with Jenkins and Docker  
+☁️ Learning **Terraform** and AWS Cloud infrastructure  
 
 ---
-
-## 📊 GitHub Stats  
 
 <div align="center">
 
-### Ramya's GitHub Stats  
+### 📊 GitHub Stats  
+
 ![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyahp19&show_icons=true&theme=tokyonight)  
-
-### Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyahp19&layout=compact&theme=tokyonight)  
-
-### GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramyahp19&theme=tokyonight)  
-
-</div>
 
 ---
 
-## 📫 Connect With Me  
+### 📫 Connect With Me  
 
-[🌐 GitHub](https://github.com/ramyahp19)  
-[💼 LinkedIn](https://www.linkedin.com/in/ramya-hp)
+<a href="https://github.com/ramyahp19">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ramya-hp">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
