@@ -30,4 +30,11 @@ Learning Terraform and AWS Cloud infrastructure
 🌐 github.com/ramyahp19
 
 💼 linkedin.com/in/ramya-hp
+
+## 📊 GitHub Statistics
+
+![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyahp19&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyahp19&layout=compact&theme=tokyonight)
+
  
