@@ -4,7 +4,7 @@
 
 I’m passionate about building **scalable and automated applications** that bridge development and operations.  
 I enjoy working with technologies like **Java, Spring Boot, Python, HTML, CSS, JavaScript, and MySQL**,  
-and exploring **AWS, Docker, Jenkins, Terraform, and Kubernetes** to streamline deployment workflows.  
+and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to streamline deployment workflows.  
 
 > 💡 **“Code. Automate. Deploy. Repeat.”**  
 
@@ -15,7 +15,7 @@ and exploring **AWS, Docker, Jenkins, Terraform, and Kubernetes** to streamline 
 
 **Languages:** Java ☕ | Python 🐍 | JavaScript ⚡  
 **Frameworks:** Spring Boot | Flask | HTML | CSS  
-**DevOps Tools:** AWS ☁ | Docker 🐳 | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Kubernetes ☸  
+**DevOps Tools:** AWS ☁ | Docker 🐳 | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Kubernetes ☸ | Ansible 🔧  
 **Database & Build:** MySQL 🗄 | Maven 📦 | Linux 🐧  
 
 </div>
@@ -24,8 +24,8 @@ and exploring **AWS, Docker, Jenkins, Terraform, and Kubernetes** to streamline 
 
 ## 🌱 What I’m Working On  
 
-- 🤖 Building **AI-powered web apps** like *Cyberbullying Detection System*  
-- ⚙️ Exploring **CI/CD automation** with Jenkins and Docker  
+- 🤖 Building **AI-powered web apps** like [Cyberbullying Detection System](https://github.com/ramyahp19/CYBERBULLYING_FINAL)  
+- ⚙️ Exploring **CI/CD automation** with Jenkins, Docker, and **Ansible**  
 - ☁️ Learning **Terraform** and AWS Cloud infrastructure  
 
 ---
@@ -47,9 +47,9 @@ and exploring **AWS, Docker, Jenkins, Terraform, and Kubernetes** to streamline 
 </a>
 <a href="https://www.linkedin.com/in/ramya-hp">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="mailto:ramyahp2004@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 </a>
 
 </div>
