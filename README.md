@@ -29,12 +29,7 @@ and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to un
 
 ## 📊 GitHub Statistics  
 
-### 👀 Profile Views • 👥 Followers • ⭐ Stars  
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ramyahp19&label=Profile%20Views&color=blue&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ramyahp19?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/ramyahp19?label=Stars&style=flat-square" />
-</p>
+
 
 ### 📈 GitHub Stats  
 ![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyahp19&show_icons=true&theme=tokyonight)
