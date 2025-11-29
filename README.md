@@ -30,21 +30,14 @@ and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to st
 
 ---
 
-<div align="center">
+
 
 ### 📊 GitHub Stats  
 
-### 📊 GitHub Stats  
+![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyahp19&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyahp19&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ramyahp19&theme=tokyonight)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ramyahp19&show_icons=true&theme=tokyonight&cache_seconds=7200" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyahp19&layout=compact&theme=tokyonight&cache_seconds=7200" />
-
-<img src="https://streak-stats.demolab.com/?user=ramyahp19&theme=tokyonight&cache_seconds=7200" />
-
-</div>
 
 
 
