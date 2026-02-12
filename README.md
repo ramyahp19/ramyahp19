@@ -19,11 +19,15 @@ and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to un
 
 ---
 
-## 🌱 What I’m Working On  
+🌱 What I’m Working On
 
-- 🤖 Building **AI-powered web apps** like [Cyberbullying Detection System](https://github.com/ramyahp19/CYBERBULLYING_FINAL)  
-- ⚙️ Exploring **CI/CD automation** using Jenkins + Docker + Ansible  
-- ☁️ Learning **Terraform** & AWS Cloud Infrastructure  
+⚙️ Exploring CI/CD automation using Jenkins, Docker, and Ansible
+
+☁️ Learning Terraform and AWS Cloud Infrastructure
+
+🔐 Building secure backend applications with Spring Boot + Spring Security (JWT, Role-Based Access)
+
+🧩 Learning Microservices Architecture using Spring Boot (REST APIs, Service Communication, API Gateway basics)
 
 ---
 
