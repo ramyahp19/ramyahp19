@@ -12,7 +12,7 @@ and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to un
 
 ## 🛠️ Tech Stack  
 
-**Languages:** Java ☕ | Python 🐍 | JavaScript ⚡  
+**Languages:** Java ☕ | JavaScript ⚡  
 **Frameworks:** Spring Boot | Flask | HTML | CSS  
 **DevOps Tools:** AWS ☁ | Docker 🐳 | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Kubernetes ☸ | Ansible 🔧  
 **Database & Build Tools:** MySQL 🗄 | Maven 📦 | Linux 🐧  
