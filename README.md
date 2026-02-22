@@ -12,20 +12,15 @@ and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to un
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-Java ☕ | JavaScript ⚡ | HTML 🌐 | CSS 🎨  <br>
+**Languages:**  Java ☕ | JavaScript ⚡ | HTML 🌐 | CSS 🎨  <br>
 
-**Frameworks:**  
-Spring 🌱 | Spring Boot 🚀 | Hibernate 🔄  <br>
+**Frameworks:**  Spring 🌱 | Spring Boot 🚀 | Hibernate 🔄  <br>
 
-**DevOps & Cloud:**  
-AWS ☁ | Docker 🐳 | Kubernetes ☸ | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Ansible 🔧  <br>
+**DevOps & Cloud:**  AWS ☁ | Docker 🐳 | Kubernetes ☸ | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Ansible 🔧  <br>
 
-**Database:**  
-MySQL 🗄  <br>
+**Database:** MySQL 🗄  <br>
 
-**Build & Tools:**  
-Maven 📦 | Git 🌿 | Linux 🐧
+**Build & Tools:**  Maven 📦 | Git 🌿 | Linux 🐧
 ---
 
 🌱 What I’m Working On
