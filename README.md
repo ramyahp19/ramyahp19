@@ -24,7 +24,7 @@ and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to un
 
 ---
 
-🌱 What I’m Working On
+<b>🌱 What I’m Working On<b>
 
 ⚙️ Exploring CI/CD automation using Jenkins, Docker, and Ansible
 
