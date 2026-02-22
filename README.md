@@ -20,7 +20,8 @@ and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to un
 
 **Database:** MySQL 🗄  <br>
 
-**Build & Tools:**  Maven 📦 | Git 🌿 | Linux 🐧
+**Build & Tools:**  Maven 📦 | Git 🌿 | Linux 🐧   <br>
+
 ---
 
 🌱 What I’m Working On
