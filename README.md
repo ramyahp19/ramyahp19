@@ -3,7 +3,7 @@
 🎓 **Computer Science Student | Aspiring Full Stack Developer | DevOps Enthusiast**  
 
 I’m passionate about **building scalable and automated applications** and learning how development and operations come together in real-world projects.  
-I enjoy working with technologies like **Java, Spring Boot, Python, HTML, CSS, JavaScript, and MySQL**,  
+I enjoy working with technologies like **Java, Spring Boot, HTML, CSS, JavaScript, and MySQL**,  
 and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to understand and streamline deployment workflows.  
 
 > 💡 **“Code. Automate. Deploy. Repeat.”**
