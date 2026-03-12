@@ -14,7 +14,7 @@ and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to un
 
 **Languages:**  Java ☕ | JavaScript ⚡ | HTML 🌐 | CSS 🎨  <br>
 
-**Frameworks:**  Spring 🌱 | Spring Boot 🚀 | Hibernate 🔄  <br>
+**Frameworks:**  Spring 🌱 | Spring Boot 🚀 | Hibernate 🔄  <br> | React
 
 **DevOps & Cloud:**  AWS ☁ | Docker 🐳 | Kubernetes ☸ | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Ansible 🔧  <br>
 
