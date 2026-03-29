@@ -34,15 +34,14 @@ Maven 📦 | Git 🌿 | Linux 🐧
 
 ## 🌱 Currently Working On
 
+🧩 Developing **Microservices using Spring Boot and REST APIs**
+🔐 Building secure backend applications with **Spring Security (JWT, Role-Based Access)**
+
 ⚙️ Learning **DevOps tools and CI/CD pipelines**
 
 🐳 Building **containerized applications using Docker**
 
 ☁️ Exploring **AWS Cloud and Infrastructure as Code with Terraform**
-
-🧩 Developing **Microservices using Spring Boot and REST APIs**
-
-🔐 Building secure backend applications with **Spring Security (JWT, Role-Based Access)**
 
 ⚛ Improving frontend skills with **React.js**
 
