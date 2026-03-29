@@ -1,55 +1,69 @@
-# 👋 Hi, I'm Ramya H P  
+# 👋 Hi, I'm Ramya H P
 
-🎓 **Computer Science Student | Aspiring Full Stack Developer | DevOps Enthusiast**  
+🎓 **Computer Science Student | Java Full Stack Developer (Spring Boot + React) | DevOps Learner**
 
-I’m passionate about **building scalable and automated applications** and learning how development and operations come together in real-world projects.  
-I enjoy working with technologies like **Java, Spring Boot, HTML, CSS, JavaScript, and MySQL**,  
-and exploring **AWS, Docker, Jenkins, Ansible, Terraform, and Kubernetes** to understand and streamline deployment workflows.  
+I’m passionate about **building scalable web applications and distributed systems** while learning how development and operations work together in real-world environments.
 
-> 💡 **“Code. Automate. Deploy. Repeat.”**
+I enjoy working with **Java, Spring Boot, React, HTML, CSS, JavaScript, and MySQL**, and I'm currently focusing on **DevOps practices, cloud technologies, and Microservices architecture** to build modern and scalable applications.
 
----
-
-## 🛠️ Tech Stack  
-
-**Languages:**  Java ☕ | JavaScript ⚡ | HTML 🌐 | CSS 🎨  <br>
-
-**Frameworks:**  Spring 🌱 | Spring Boot 🚀 | Hibernate 🔄  | React  <br>
-
-**DevOps & Cloud:**  AWS ☁ | Docker 🐳 | Kubernetes ☸ | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Ansible 🔧  <br>
-
-**Database:** MySQL 🗄  <br>
-
-**Build & Tools:**  Maven 📦 | Git 🌿 | Linux 🐧   <br>
+> 💡 **"Code. Automate. Deploy. Repeat."**
 
 ---
 
- <b>🌱 What I’m Working On<b>
+## 🛠️ Tech Stack
 
-⚙️ Exploring CI/CD automation using Jenkins, Docker, and Ansible
+**Languages**
+Java ☕ | JavaScript ⚡ | HTML 🌐 | CSS 🎨
 
-☁️ Learning Terraform and AWS Cloud Infrastructure
+**Frameworks & Libraries**
+Spring 🌱 | Spring Boot 🚀 | Hibernate 🔄 | React ⚛
 
-🔐 Building secure backend applications with Spring Boot + Spring Security (JWT, Role-Based Access)
+**Architecture**
+Microservices Architecture 🧩 | REST APIs 🔗
 
-🧩 Learning Microservices Architecture using Spring Boot (REST APIs, Service Communication, API Gateway basics)
+**DevOps & Cloud (Currently Learning)**
+AWS ☁ | Docker 🐳 | Kubernetes ☸ | Jenkins ⚙ | GitHub Actions 🚀 | Terraform 🌍 | Ansible 🔧
+
+**Database**
+MySQL 🗄
+
+**Build & Tools**
+Maven 📦 | Git 🌿 | Linux 🐧
+
+---
+
+## 🌱 Currently Working On
+
+⚙️ Learning **DevOps tools and CI/CD pipelines**
+
+🐳 Building **containerized applications using Docker**
+
+☁️ Exploring **AWS Cloud and Infrastructure as Code with Terraform**
+
+🧩 Developing **Microservices using Spring Boot and REST APIs**
+
+🔐 Building secure backend applications with **Spring Security (JWT, Role-Based Access)**
+
+⚛ Improving frontend skills with **React.js**
 
 ---
 
-## 📊 GitHub Statistics  
+## 📊 GitHub Statistics
 
+### 📈 GitHub Stats
 
+![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyahp19\&show_icons=true\&theme=tokyonight)
 
-### 📈 GitHub Stats  
-![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyahp19&show_icons=true&theme=tokyonight)
+### 🔥 GitHub Streak
 
-### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=ramyahp19&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ramyahp19\&theme=tokyonight)
 
-### 🧩 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyahp19&layout=compact&theme=tokyonight)
+### 🧩 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyahp19\&layout=compact\&theme=tokyonight)
 
 ---
+
 
 ## 📫 Connect With Me  
 
