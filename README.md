@@ -4,7 +4,7 @@
 
 I’m passionate about **building scalable web applications and distributed systems** while learning how development and operations work together in real-world environments.
 
-I enjoy working with **Java, Spring Boot, React, HTML, CSS, JavaScript, and MySQL**, and I'm currently focusing on **DevOps practices, cloud technologies, and Microservices architecture** to build modern and scalable applications.
+I enjoy working with **Java, Spring Boot, React and MySQL**, and I'm currently focusing on **DevOps practices, cloud technologies, and Microservices architecture** to build modern and scalable applications.
 
 > 💡 **"Code. Automate. Deploy. Repeat."**
 
