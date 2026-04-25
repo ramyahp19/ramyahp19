@@ -49,9 +49,6 @@ Maven 📦 | Git 🌿 | Linux 🐧
 
 ## 📊 GitHub Statistics
 
-### 📈 GitHub Stats
-
-![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyahp19\&show_icons=true\&theme=tokyonight)
 
 ### 🔥 GitHub Streak
 
